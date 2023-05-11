@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![luhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=593413198&show_icons=true)
+<!--![luhao's GitHub stats](https://github-readme-stats.vercel.app/api?username=593413198&show_icons=true)-->
 
 🔭 **Working** ...
   * Netease Game
