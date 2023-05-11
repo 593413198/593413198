@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=593413198)
+<img src="https://github-readme-stats.vercel.app/api?username=593413198&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false
 
 <!--
 **593413198/593413198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
